@@ -44,10 +44,9 @@ print(top_10_popular_movies[['MovieID', 'Title', 'num_ratings', 'avg_rating', 'p
 
 # Create a Dash app
 app = dash.Dash(__name__)
-<<<<<<< HEAD
+
 # For deployment
-=======
->>>>>>> refs/remotes/origin/main
+
 server=app.server
 
 # Layout of the Dash app
