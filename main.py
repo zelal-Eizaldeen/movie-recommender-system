@@ -5,7 +5,7 @@ import dash
 from dash import dcc, html
 
 
-DATA_DIR='/ml-1m'
+DATA_DIR='ml-1m'
 IMAGES_URL='/assets'
 
 
